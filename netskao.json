@@ -1,0 +1,101 @@
+{
+    "name": "CyPwn IPA Library",
+    "identifier": "xyz.cypwn.ipalibrary",
+    "subtitle": "CyPwn's Exclusive IPA Library",
+    "iconURL": "https:\/\/repo.cypwn.xyz\/assets\/images\/cypwn_small.png",
+    "website": "https:\/\/ipa.cypwn.xyz",
+    "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
+    "featuredApps": [
+        "Ed0ardo.CyPwnStore"
+    ],
+    "crypto": {
+        "btc": "3MNWXDGVHWYvpiUx2z6VFcPtAyP85mBn3G"
+    },
+    "apps": [
+        {
+            "name": "NFC_Tools_2.27",
+            "bundleIdentifier": "com.wakdev.wdnfc",
+            "developerName": "NFC_Tools_2.27 x CyPwn",
+            "version": "2.27",
+            "versionDate": "2023-12-01",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/NFC_Tools_2.27.ipa",
+            "localizedDescription": "Free Pro (Satella)",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/NFC_Tools_2.27.png",
+            "tintColor": "FFC300",
+            "size": 2097152,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/NFC_Tools_2.27\/NFC_Tools_2.27-0.png"
+            ]
+        },
+        {
+            "name": "EzFN-7.40",
+            "bundleIdentifier": "3bda04b065c347de824ac05c8bb874bf",
+            "developerName": "EzFN-7.40 x CyPwn",
+            "version": "7.40.2",
+            "versionDate": "2023-11-18",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/EzFN-7.40.ipa",
+            "localizedDescription": "Fortnite season 7 private server",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/EzFN-7.40.png",
+            "tintColor": "FFC300",
+            "size": 98566144,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/EzFN-7.40\/EzFN-7.40-2.png"
+            ]
+        },
+        {
+            "name": "Apollo_1.15.11+Artemis1.3",
+            "bundleIdentifier": "com.christianselig.Apollo",
+            "developerName": "Apollo_1.15.11+Artemis1.3 x CyPwn",
+            "version": "1.15.11",
+            "versionDate": "2023-07-05",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Apollo_1.15.11+Artemis1.3.ipa",
+            "localizedDescription": "Apollo aint dead",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Apollo_1.15.11+Artemis1.3.png",
+            "tintColor": "FFC300",
+            "size": 92274688,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Apollo_1.15.11+Artemis1.3\/Apollo_1.15.11+Artemis1.3-0.png"
+            ]
+        },
+        {
+            "name": "NicegramPremium1.3.5",
+            "bundleIdentifier": "app.nicegram",
+            "developerName": "NicegramPremium1.3.5 x CyPwn",
+            "version": "1.3.5",
+            "versionDate": "2023-07-03",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/NicegramPremium1.3.5.ipa",
+            "localizedDescription": "Nicegram Premium for Telegram",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/NicegramPremium1.3.5.png",
+            "tintColor": "FFC300",
+            "size": 83886080,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/NicegramPremium1.3.5\/NicegramPremium1.3.5-1.png"
+            ]
+        },
+        {
+            "name": "Dystopia",
+            "bundleIdentifier": "com.CarbonDev.Dystopia",
+            "developerName": "Dystopia x CyPwn",
+            "version": "1.0.0",
+            "versionDate": "2023-06-25",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Dystopia.ipa",
+            "localizedDescription": "Alternative to Apollo for Reddit",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Dystopia.png",
+            "tintColor": "FFC300",
+            "size": 13631488,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Dystopia\/Dystopia-2.png"
+            ]
+        },
+        {
+            "title": "Deezer++iOS15 now available!",
+            "identifier": "cypwn.Deezer++iOS15.7.15.0",
+            "caption": "Deezer++iOS15 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Deezer++iOS15.png",
+            "date": "2022-04-09",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        }
+    ]
+		}
