@@ -1,7 +1,7 @@
 {
     "name": "NETSKAO IPA Library",
     "identifier": "xyz.cypwn.ipalibrary",
-    "subtitle": "CyPwn's Exclusive IPA Library",
+    "subtitle": "NETSKAO Exclusive IPA Library",
     "iconURL": "https:\/\/repo.cypwn.xyz\/assets\/images\/cypwn_small.png",
     "website": "https:\/\/ipa.cypwn.xyz",
     "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
@@ -13,9 +13,9 @@
     },
     "apps": [
         {
-            "name": "NFC_Tools_2.27",
+            "name": "YoutubePre_2.27",
             "bundleIdentifier": "com.wakdev.wdnfc",
-            "developerName": "NFC_Tools_2.27 x CyPwn",
+            "developerName": "YoutubePre_2.27 x CyPwn",
             "version": "2.27",
             "versionDate": "2023-12-01",
             "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/NFC_Tools_2.27.ipa",
