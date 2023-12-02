@@ -1,10 +1,10 @@
 {
-    "name": "NETSKAO IPA Library",
+    "name": "Web: netskao.site ",
     "identifier": "xyz.cypwn.ipalibrary",
     "subtitle": "NETSKAO Exclusive IPA Library",
     "iconURL": "https:\/\/repo.cypwn.xyz\/assets\/images\/cypwn_small.png",
     "website": "https:\/\/ipa.cypwn.xyz",
-    "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
+    "sourceURL": "https:\/\/netskao.site\/netskao.json",
     "featuredApps": [
         "Ed0ardo.CyPwnStore"
     ],
